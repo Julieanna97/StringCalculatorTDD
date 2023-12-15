@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\StringCalculatorTDD",
+            "binaryPath": "c:\\Users\\Julie\\OneDrive\\Documents\\GitHub\\StringCalculatorTDD\\programmet-debug.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stringcalculator.h": "c"
+    }
+}
